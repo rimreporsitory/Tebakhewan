@@ -1,0 +1,640 @@
+[
+    {
+        "title": "Gajah",
+        "ciri": {
+            "keluarga": "Elephantidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, hutan",
+            "ukuran": "Besar",
+            "warna": "Abu-abu",
+            "suara": "Suaranya seperti terompet"
+        }
+    },
+    {
+        "title": "Harimau",
+        "ciri": {
+            "keluarga": "Felidae",
+            "makanan": "Karnivora",
+            "habitat": "Hutan, padang rumput",
+            "ukuran": "Besar",
+            "warna": "Oranye dengan garis hitam",
+            "suara": "Dengusan keras"
+        }
+    },
+    {
+        "title": "Kanguru",
+        "ciri": {
+            "keluarga": "Macropodidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, hutan",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Coklat atau abu-abu",
+            "suara": "Geraman"
+        }
+    },
+    {
+        "title": "Penguin",
+        "ciri": {
+            "keluarga": "Spheniscidae",
+            "makanan": "Karnivora (ikan, krill)",
+            "habitat": "Antartika, daerah pesisir",
+            "ukuran": "Sedang hingga kecil",
+            "warna": "Hitam dan putih",
+            "suara": "Suara seperti braaay"
+        }
+    },
+    {
+        "title": "Jerapah",
+        "ciri": {
+            "keluarga": "Giraffidae",
+            "makanan": "Herbivora",
+            "habitat": "Savanna, hutan",
+            "ukuran": "Sangat tinggi",
+            "warna": "Coklat kekuningan dengan bercak-bercak",
+            "suara": "Geraman rendah"
+        }
+    },
+    {
+        "title": "Zebra",
+        "ciri": {
+            "keluarga": "Equidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, savanna",
+            "ukuran": "Sedang",
+            "warna": "Hitam dengan garis-garis putih",
+            "suara": "Suara erangan"
+        }
+    },
+    {
+        "title": "Badak",
+        "ciri": {
+            "keluarga": "Rhinocerotidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, hutan",
+            "ukuran": "Besar",
+            "warna": "Abu-abu",
+            "suara": "Suara mendengus"
+        }
+    },
+    {
+        "title": "Singa",
+        "ciri": {
+            "keluarga": "Felidae",
+            "makanan": "Karnivora",
+            "habitat": "Padang rumput, savanna",
+            "ukuran": "Besar",
+            "warna": "Emas kekuningan",
+            "suara": "Suara auman"
+        }
+    },
+    {
+        "title": "Beruang",
+        "ciri": {
+            "keluarga": "Ursidae",
+            "makanan": "Omnivora",
+            "habitat": "Hutan, pegunungan",
+            "ukuran": "Besar",
+            "warna": "Coklat, hitam, atau putih",
+            "suara": "Suara growl"
+        }
+    },
+    {
+        "title": "Kuda",
+        "ciri": {
+            "keluarga": "Equidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, savanna",
+            "ukuran": "Besar",
+            "warna": "Beragam (coklat, hitam, putih)",
+            "suara": "Suara kuda meringkik"
+        }
+    },
+    {
+        "title": "Lumba-lumba",
+        "ciri": {
+            "keluarga": "Delphinidae",
+            "makanan": "Karnivora (ikan)",
+            "habitat": "Lautan",
+            "ukuran": "Sedang",
+            "warna": "Abu-abu atau biru muda",
+            "suara": "Suara bersiul"
+        }
+    },
+    {
+        "title": "Elang",
+        "ciri": {
+            "keluarga": "Accipitridae",
+            "makanan": "Karnivora",
+            "habitat": "Daerah pegunungan, terbuka",
+            "ukuran": "Besar",
+            "warna": "Coklat, putih, atau hitam",
+            "suara": "Suara teriakan"
+        }
+    },
+    {
+        "title": "Bunglon",
+        "ciri": {
+            "keluarga": "Chamaeleonidae",
+            "makanan": "Insectivora",
+            "habitat": "Hutan tropis",
+            "ukuran": "Sedang",
+            "warna": "Berubah-ubah sesuai lingkungan",
+            "suara": "Suara dengusan lembut"
+        }
+    },
+    {
+        "title": "Kelelawar",
+        "ciri": {
+            "keluarga": "Chiroptera",
+            "makanan": "Karnivora, frugivora",
+            "habitat": "Gua, pohon tinggi",
+            "ukuran": "Sedang",
+            "warna": "Coklat atau hitam",
+            "suara": "Suara klik echolocation"
+        }
+    },
+    {
+        "title": "Anjing",
+        "ciri": {
+            "keluarga": "Canidae",
+            "makanan": "Omnivora",
+            "habitat": "Berbagai habitat",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Beragam warna",
+            "suara": "Suara menggonggong"
+        }
+    },
+    {
+        "title": "Kucing",
+        "ciri": {
+            "keluarga": "Felidae",
+            "makanan": "Karnivora",
+            "habitat": "Berbagai habitat",
+            "ukuran": "Sedang",
+            "warna": "Beragam warna",
+            "suara": "Suara meong"
+        }
+    },
+    {
+        "title": "Lionsfish",
+        "ciri": {
+            "keluarga": "Scorpaenidae",
+            "makanan": "Karnivora",
+            "habitat": "Lautan tropis",
+            "ukuran": "Sedang",
+            "warna": "Merah dengan garis-garis putih",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Kuda Laut",
+        "ciri": {
+            "keluarga": "Syngnathidae",
+            "makanan": "Omnivora",
+            "habitat": "Lautan tropis",
+            "ukuran": "Kecil",
+            "warna": "Coklat atau kuning",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Serigala",
+        "ciri": {
+            "keluarga": "Canidae",
+            "makanan": "Karnivora",
+            "habitat": "Hutan, padang rumput",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Abu-abu, coklat",
+            "suara": "Auman atau melolong"
+        }
+    },
+    {
+        "title": "Cheetah",
+        "ciri": {
+            "keluarga": "Felidae",
+            "makanan": "Karnivora",
+            "habitat": "Padang rumput",
+            "ukuran": "Sedang",
+            "warna": "Kuning dengan bintik hitam",
+            "suara": "Dengusan"
+        }
+    },
+    {
+        "title": "Koala",
+        "ciri": {
+            "keluarga": "Phascolarctidae",
+            "makanan": "Herbivora",
+            "habitat": "Hutan Eucalyptus",
+            "ukuran": "Sedang",
+            "warna": "Abu-abu",
+            "suara": "Suara melolong"
+        }
+    },
+    {
+        "title": "Babi Hutan",
+        "ciri": {
+            "keluarga": "Suidae",
+            "makanan": "Omnivora",
+            "habitat": "Hutan, padang rumput",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Coklat atau hitam",
+            "suara": "Suara grunting"
+        }
+    },
+    {
+        "title": "Monyet",
+        "ciri": {
+            "keluarga": "Cercopithecidae",
+            "makanan": "Omnivora",
+            "habitat": "Hutan tropis",
+            "ukuran": "Sedang",
+            "warna": "Coklat, abu-abu",
+            "suara": "Suara teriakan"
+        }
+    },
+    {
+        "title": "Panda",
+        "ciri": {
+            "keluarga": "Ursidae",
+            "makanan": "Herbivora (Bambu)",
+            "habitat": "Hutan bambu",
+            "ukuran": "Sedang",
+            "warna": "Putih dengan bercak hitam",
+            "suara": "Suara desisan"
+        }
+    },
+    {
+        "title": "Komodo",
+        "ciri": {
+            "keluarga": "Varanidae",
+            "makanan": "Karnivora",
+            "habitat": "Pulau-pulau tropis",
+            "ukuran": "Besar",
+            "warna": "Coklat kehijauan",
+            "suara": "Suara desisan"
+        }
+    },
+    {
+        "title": "Ikan Paus",
+        "ciri": {
+            "keluarga": "Balaenidae",
+            "makanan": "Karnivora (Plankton, ikan kecil)",
+            "habitat": "Lautan",
+            "ukuran": "Sangat besar",
+            "warna": "Abu-abu, biru",
+            "suara": "Suara siulan"
+        }
+    },
+    {
+        "title": "Harimau Sumatra",
+        "ciri": {
+            "keluarga": "Felidae",
+            "makanan": "Karnivora",
+            "habitat": "Hutan tropis",
+            "ukuran": "Besar",
+            "warna": "Oranye dengan garis hitam",
+            "suara": "Dengusan keras"
+        }
+    },
+    {
+        "title": "Cicak",
+        "ciri": {
+            "keluarga": "Gekkonidae",
+            "makanan": "Insectivora",
+            "habitat": "Dinding rumah, pohon",
+            "ukuran": "Kecil",
+            "warna": "Coklat atau hijau",
+            "suara": "Suara cipikan"
+        }
+    },
+    {
+        "title": "Kelelawar Vampire",
+        "ciri": {
+            "keluarga": "Phyllostomidae",
+            "makanan": "Hematophagous (darah)",
+            "habitat": "Gua, hutan tropis",
+            "ukuran": "Sedang",
+            "warna": "Hitam atau coklat tua",
+            "suara": "Suara klik echolocation"
+        }
+    },
+    {
+        "title": "Kakatua",
+        "ciri": {
+            "keluarga": "Cacatuidae",
+            "makanan": "Omnivora",
+            "habitat": "Hutan tropis",
+            "ukuran": "Sedang",
+            "warna": "Putih dengan topeng kuning",
+            "suara": "Suara teriakan keras"
+        }
+    },
+    {
+        "title": "Bison",
+        "ciri": {
+            "keluarga": "Bovidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, dataran",
+            "ukuran": "Sangat besar",
+            "warna": "Coklat kekuningan",
+            "suara": "Suara teriakan"
+        }
+    },
+    {
+        "title": "Lynx",
+        "ciri": {
+            "keluarga": "Felidae",
+            "makanan": "Karnivora",
+            "habitat": "Hutan dan pegunungan",
+            "ukuran": "Sedang",
+            "warna": "Coklat keabu-abuan",
+            "suara": "Suara auman rendah"
+        }
+    },
+    {
+        "title": "Kepiting",
+        "ciri": {
+            "keluarga": "Brachyura",
+            "makanan": "Omnivora",
+            "habitat": "Pantai, dasar laut",
+            "ukuran": "Kecil hingga sedang",
+            "warna": "Coklat, merah",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Tupai",
+        "ciri": {
+            "keluarga": "Sciuridae",
+            "makanan": "Omnivora (biji-bijian, kacang)",
+            "habitat": "Hutan, taman",
+            "ukuran": "Kecil",
+            "warna": "Coklat atau abu-abu",
+            "suara": "Suara cipikan"
+        }
+    },
+    {
+        "title": "Beluga",
+        "ciri": {
+            "keluarga": "Monodontidae",
+            "makanan": "Karnivora (ikan kecil, udang)",
+            "habitat": "Lautan Arktik",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Putih",
+            "suara": "Suara siulan"
+        }
+    },
+    {
+        "title": "Kupu-kupu",
+        "ciri": {
+            "keluarga": "Papilionidae",
+            "makanan": "Nektar bunga",
+            "habitat": "Taman, hutan",
+            "ukuran": "Kecil hingga sedang",
+            "warna": "Beragam warna cerah",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Naga Komodo",
+        "ciri": {
+            "keluarga": "Varanidae",
+            "makanan": "Karnivora",
+            "habitat": "Pulau-pulau tropis",
+            "ukuran": "Besar",
+            "warna": "Coklat kehijauan",
+            "suara": "Suara desisan"
+        }
+    },
+    {
+        "title": "Rubah",
+        "ciri": {
+            "keluarga": "Canidae",
+            "makanan": "Omnivora",
+            "habitat": "Hutan, padang rumput",
+            "ukuran": "Sedang",
+            "warna": "Merah kecoklatan",
+            "suara": "Suara teriakan atau melolong"
+        }
+    },
+    {
+        "title": "Gorila",
+        "ciri": {
+            "keluarga": "Hominidae",
+            "makanan": "Herbivora",
+            "habitat": "Hutan tropis",
+            "ukuran": "Sangat besar",
+            "warna": "Coklat atau hitam",
+            "suara": "Suara gemuruh"
+        }
+    },
+    {
+        "title": "Sigung",
+        "ciri": {
+            "keluarga": "Mephitidae",
+            "makanan": "Omnivora",
+            "habitat": "Hutan, padang rumput",
+            "ukuran": "Sedang",
+            "warna": "Hitam dengan garis putih",
+            "suara": "Suara desisan"
+        }
+    },
+    {
+        "title": "Rusa",
+        "ciri": {
+            "keluarga": "Cervidae",
+            "makanan": "Herbivora",
+            "habitat": "Hutan, padang rumput",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Coklat atau abu-abu",
+            "suara": "Suara geraman atau raungan"
+        }
+    },
+    {
+        "title": "Anaconda",
+        "ciri": {
+            "keluarga": "Boidae",
+            "makanan": "Karnivora",
+            "habitat": "Sungai, rawa",
+            "ukuran": "Sangat besar",
+            "warna": "Hijau dengan bercak hitam",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Penyu",
+        "ciri": {
+            "keluarga": "Cheloniidae",
+            "makanan": "Herbivora (rumput laut), Karnivora (ikan)",
+            "habitat": "Pantai, laut",
+            "ukuran": "Sedang",
+            "warna": "Hijau atau coklat",
+            "suara": "Suara dengusan"
+        }
+    },
+    {
+        "title": "Cacing",
+        "ciri": {
+            "keluarga": "Lumbricidae",
+            "makanan": "Decomposing organic material",
+            "habitat": "Tanah lembab",
+            "ukuran": "Kecil",
+            "warna": "Coklat atau merah muda",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Gagak",
+        "ciri": {
+            "keluarga": "Corvidae",
+            "makanan": "Omnivora",
+            "habitat": "Berbagai habitat",
+            "ukuran": "Sedang",
+            "warna": "Hitam",
+            "suara": "Suara caw-caw"
+        }
+    },
+    {
+        "title": "Ular",
+        "ciri": {
+            "keluarga": "Serpentes",
+            "makanan": "Karnivora",
+            "habitat": "Hutan, padang rumput",
+            "ukuran": "Beragam ukuran",
+            "warna": "Beragam (hijau, coklat, hitam)",
+            "suara": "Suara desisan"
+        }
+    },
+    {
+        "title": "Tawon",
+        "ciri": {
+            "keluarga": "Vespidae",
+            "makanan": "Nektar bunga, serangga lain",
+            "habitat": "Koloni di sarang",
+            "ukuran": "Sedang",
+            "warna": "Kuning dengan garis hitam",
+            "suara": "Suara berdengung"
+        }
+    },
+    {
+        "title": "Marmut",
+        "ciri": {
+            "keluarga": "Caviidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, semak",
+            "ukuran": "Sedang",
+            "warna": "Beragam warna (coklat, putih, hitam)",
+            "suara": "Suara chirping"
+        }
+    },
+    {
+        "title": "Bangkai",
+        "ciri": {
+            "keluarga": "Cicindelidae",
+            "makanan": "Pemakan bangkai",
+            "habitat": "Padang pasir, hutan",
+            "ukuran": "Kecil",
+            "warna": "Coklat kehitaman",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Binggo",
+        "ciri": {
+            "keluarga": "Canidae",
+            "makanan": "Omnivora",
+            "habitat": "Berbagai habitat",
+            "ukuran": "Kecil hingga sedang",
+            "warna": "Beragam",
+            "suara": "Suara teriak atau menggonggong"
+        }
+    },
+    {
+        "title": "Kelelawar Pemakan Buah",
+        "ciri": {
+            "keluarga": "Pteropodidae",
+            "makanan": "Frugivora",
+            "habitat": "Hutan tropis",
+            "ukuran": "Sedang",
+            "warna": "Coklat atau hitam",
+            "suara": "Suara klik echolocation"
+        }
+    },
+    {
+        "title": "Sanca",
+        "ciri": {
+            "keluarga": "Boidae",
+            "makanan": "Karnivora",
+            "habitat": "Hutan, rawa",
+            "ukuran": "Besar",
+            "warna": "Hijau dengan bercak coklat",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Jerapa",
+        "ciri": {
+            "keluarga": "Giraffidae",
+            "makanan": "Herbivora",
+            "habitat": "Savanna",
+            "ukuran": "Sangat tinggi",
+            "warna": "Coklat kekuningan dengan bercak-bercak",
+            "suara": "Suara geraman rendah"
+        }
+    },
+    {
+        "title": "Balaur",
+        "ciri": {
+            "keluarga": "Dromaeosauridae",
+            "makanan": "Karnivora",
+            "habitat": "Hutan, daerah dataran rendah",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Hijau atau abu-abu",
+            "suara": "Suara geraman atau raungan"
+        }
+    },
+    {
+        "title": "Goby",
+        "ciri": {
+            "keluarga": "Gobiidae",
+            "makanan": "Omnivora",
+            "habitat": "Lautan tropis",
+            "ukuran": "Kecil",
+            "warna": "Beragam",
+            "suara": "Diam"
+        }
+    },
+    {
+        "title": "Lumba-lumba Laut",
+        "ciri": {
+            "keluarga": "Delphinidae",
+            "makanan": "Karnivora (ikan)",
+            "habitat": "Lautan",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Abu-abu atau biru muda",
+            "suara": "Suara bersiul"
+        }
+    },
+    {
+        "title": "Singa Laut",
+        "ciri": {
+            "keluarga": "Otariidae",
+            "makanan": "Karnivora (ikan)",
+            "habitat": "Pantai",
+            "ukuran": "Sedang hingga besar",
+            "warna": "Coklat keabu-abuan",
+            "suara": "Suara teriakan"
+        }
+    },
+    {
+        "title": "Bison Amerika",
+        "ciri": {
+            "keluarga": "Bovidae",
+            "makanan": "Herbivora",
+            "habitat": "Padang rumput, dataran",
+            "ukuran": "Sangat besar",
+            "warna": "Coklat kekuningan",
+            "suara": "Suara teriakan keras"
+        }
+    }
+]
